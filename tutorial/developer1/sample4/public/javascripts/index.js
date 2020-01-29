@@ -12,7 +12,7 @@ function popupValue() {
     }
 }
 
-// 要素に値をセットする
+// 要素に値をセットします
 function setValue() {
     const text2Value = 'Rakus!'
     $('#text2').text(text2Value);
